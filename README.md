@@ -12,7 +12,7 @@ for the insignificant pixels (white space).
 **How to use**
 
 ````
-imshow(imread('7.png')));
+imshow(imread('7.png'));
 figure;
 imshow(detectNumber('7.png'));
 ````
